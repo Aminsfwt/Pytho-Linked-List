@@ -174,14 +174,7 @@ node_1.print()
 node_1.remove_by_value('hassan')
 print(node_1.get_len())
 node_1.print()
-"""
-"""node_1.remove_at(0)
-node_1.print()
-print(node_1.get_len())"""
 
-"""node_1.remove_at(3)
-node_1.print()
-print(node_1.get_len())"""
 
 
     
